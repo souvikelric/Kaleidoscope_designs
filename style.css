@@ -1,0 +1,25 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #2b2d42;
+}
+canvas {
+  display: block;
+  font-family: "Montserrat", sans-serif;
+  color: #ef233c;
+}
+
+.content {
+  position: absolute;
+  left: 70%;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
+  color: #edf2f4;
+}
+
+.desc {
+  color: #06d6a0;
+  font-size: 24px;
+  font-weight: 600;
+}
